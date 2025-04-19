@@ -153,8 +153,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/cff3fa8c-8b01-4ea4-ae3f-fa3b00c00aee)
 
-![image](https://github.com/user-attachments/assets/533d897c-8015-4119-a57c-19dd23c43d6a)
 
 
 ## RESULT
