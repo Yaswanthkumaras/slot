@@ -28,7 +28,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - your name , reg no</title>
+    <title>SLOT TIME TABLE - Yaswanth kumar , reg no:212224230310</title>
     <style>
         table {
             border-collapse: collapse;
@@ -153,7 +153,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-19 143246.png>)
+
+![image](https://github.com/user-attachments/assets/533d897c-8015-4119-a57c-19dd23c43d6a)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
